@@ -22,7 +22,7 @@
       <pubDate>Fri, 08 Oct 2021 12:11:52 +0800</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
-      <description>#这是我的第一篇博客 ##欢迎大家和我讨论编程的问题</description>
+      <description>这是我的第一篇博客 欢迎大家和我讨论编程的问题 </description>
     </item>
     
   </channel>
